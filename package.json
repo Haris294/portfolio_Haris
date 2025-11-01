@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Haris294.github.io/haris-portfolio",
+  "homepage": "https://Haris294.github.io/portfolio_Haris",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
