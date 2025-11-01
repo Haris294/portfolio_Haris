@@ -80,7 +80,7 @@ export default function App() {
           <div className="md:justify-self-end">
             <div className="aspect-square w-full max-w-sm rounded-3xl bg-gradient-to-br from-indigo-500/30 via-sky-500/20 to-fuchsia-500/20 p-[1px]">
               <div className="h-full w-full rounded-3xl bg-neutral-950 grid place-items-center">
-                <span className="text-8xl">⚙️</span>
+                <span className="text-8xl">💻</span>
               </div>
             </div>
           </div>
