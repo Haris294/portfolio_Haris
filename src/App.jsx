@@ -148,9 +148,10 @@ export default function App() {
         <h2 className="text-2xl md:text-3xl font-bold">Writing & Talks</h2>
         <p className="text-neutral-300 mt-2">Poetry by night, pipelines by day. Selected links:</p>
         <ul className="mt-4 space-y-3 text-neutral-300 text-sm">
-          <li>• LinkedIn posts on data engineering, ETL design, and cloud migration.</li>
+        <li>• Mentored junior engineers and shared best practices in data governance and design patterns.</li>
           <li>• GitHub READMEs with architecture notes, lineage, and testing strategies.</li>
-          <li>• Urdu poetry series (anonymous to the world, luminous to one). ✨</li>
+          <li>• Technical blogs and LinkedIn posts on data architecture, ETL optimization, and cloud strategy.</li>
+
         </ul>
       </section>
 
